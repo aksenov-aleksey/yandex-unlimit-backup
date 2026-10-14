@@ -1,0 +1,9 @@
+cookies.json
+.env
+.photoslice_paths.txt
+.copied.txt
+.failed.txt
+.collect_state.json
+logs/
+.venv/
+__pycache__/
